@@ -1,0 +1,23 @@
+{
+  "name": "220716_vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://LimSeonJuu@github.com/LimSeonJuu/220716_vue.git"
+  },
+  "author": "bluemoris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimSeonJuu/220716_vue/issues"
+  },
+  "homepage": "https://github.com/LimSeonJuu/220716_vue#readme",
+  "dependencies": {
+    "vue": "^3.2.37",
+    "vuew": "^1.0.0-security"
+  }
+}
